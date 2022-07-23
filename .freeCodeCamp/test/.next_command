@@ -25,3 +25,12 @@ history -a
 printenv
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo LANG
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+LANG
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $LANG
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
