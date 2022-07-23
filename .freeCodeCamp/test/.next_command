@@ -78,3 +78,12 @@ history -a
 (( I += 10 ))
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo I
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $I
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
