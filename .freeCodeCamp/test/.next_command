@@ -1,3 +1,6 @@
 ./countdown.sh 1
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help while
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
