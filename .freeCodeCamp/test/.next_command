@@ -161,3 +161,9 @@ history -a
 echo $(( J*5 + 25 ))
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+should equal 5. For some more practice, use echo to print the value J bingo.sh boilerplate-bash countdown.sh learn-bash-scripting-by-building-five-programs questionnaire.sh 5 + 25.
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $J
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
