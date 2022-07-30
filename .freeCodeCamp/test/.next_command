@@ -304,3 +304,27 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ hello =~ lo ]]
+$?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ hello =~ world ]]
+$?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ "hello world" =~ "lo wor" ]]
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
